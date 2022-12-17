@@ -1,0 +1,10 @@
+use AdventureWorks2019
+go
+
+set statistics time on 
+go
+
+set statistics io on 
+go
+
+select * from
